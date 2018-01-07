@@ -16,6 +16,11 @@ import com.gmcc.monitor.dao.TbSystemDao;
 import com.gmcc.monitor.entity.TbMonitor;
 import com.gmcc.monitor.entity.TbSystem;
 
+/**
+ * 监控控制器
+ * @author Administrator
+ *
+ */
 @Controller
 public class MonitorController {
 	
